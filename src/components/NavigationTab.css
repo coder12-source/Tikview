@@ -1,0 +1,46 @@
+.navigationTabContainer{
+    border-style: solid;
+    display: flex;
+    width: 99vw;
+    justify-content: space-around;
+    margin-top: -1px;
+}
+
+.container-left{
+    width: 70%;
+    display: flex;   /**  Makes containers stack to the side */
+    justify-content: space-around; /** allocate space equally to things inside container */
+}
+
+.container-right{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    margin-top: -6px;
+}
+
+.logo-img{
+    width: 79px;
+    height:  79px;
+    margin-top: -6px;
+}
+
+.searchbar{
+    margin-top: 10px;
+    margin-right: 10px;
+    height: 32px;
+}
+
+.hyperlink{
+    text-decoration:none;
+}
+
+.hyperlink:hover{
+    text-decoration: none;
+}
+
+.hyperlink:visited{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,108 @@
+
+
+/* Container for Login Form */
+.login-container {
+margin: 20px;
+background: white;
+padding: 2rem;
+border-radius: 12px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+width: 350px;
+text-align: center;
+
+}
+
+/* Header */
+.login-container h1 {
+font-size: 1.8rem;
+font-weight: bold;
+margin-bottom: 1rem;
+}
+
+/* Input Fields */
+.login-container input {
+width: 100%;
+padding: 10px;
+margin: 8px 0;
+border: 1px solid #ccc;
+border-radius: 6px;
+font-size: 1rem;
+}
+
+/* Button Styling */
+.login-container button {
+width: 100%;
+padding: 10px;
+background: #8a2be2;
+color: white;
+font-size: 1rem;
+font-weight: bold;
+border: none;
+border-radius: 6px;
+cursor: pointer;
+margin-top: 10px;
+}
+
+.login-container button:hover {
+background: #6a1bbd;
+}
+
+/* Error Message */
+.error-message {
+color: red;
+font-size: 0.9rem;
+margin-top: 10px;
+}
+
+
+/* Container for Login Form */
+.login-container {
+background: white;
+padding: 2rem;
+border-radius: 12px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+width: 350px;
+text-align: center;
+}
+
+/* Header */
+.login-container h1 {
+font-size: 1.8rem;
+font-weight: bold;
+margin-bottom: 1rem;
+}
+
+/* Input Fields */
+.login-container input {
+width: 100%;
+padding: 10px;
+margin: 8px 0;
+border: 1px solid #ccc;
+border-radius: 6px;
+font-size: 1rem;
+}
+
+/* Button Styling */
+.login-container button {
+width: 100%;
+padding: 10px;
+background: #8a2be2;
+color: white;
+font-size: 1rem;
+font-weight: bold;
+border: none;
+border-radius: 6px;
+cursor: pointer;
+margin-top: 10px;
+}
+
+.login-container button:hover {
+background: #6a1bbd;
+}
+
+/* Error Message */
+.error-message {
+color: red;
+font-size: 0.9rem;
+margin-top: 10px;
+}

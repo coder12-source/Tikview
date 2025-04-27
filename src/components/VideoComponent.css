@@ -1,0 +1,60 @@
+.videoComponent-container{
+    padding: 5px;
+}
+
+.videoComponent-top{
+    padding: 2px;
+}
+
+.videoComponent-bottom{
+    padding: 1px;
+    display: flex;
+}
+
+.videoComponent-lower-right{
+
+}
+
+.video-title{
+    margin-top: 1px;
+}
+
+.video-owner{
+    margin-top: -15px;
+}
+
+.video-information{
+    justify-content: space-between;
+}
+
+.video-date-views{
+    display: flex;
+    margin-top: -40px;
+    margin-left: -5px;
+}
+
+
+
+.video-upload-date{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.actual-video{
+    height: 250px;
+    width: 250px;
+}
+
+.profile-pic{
+    width: 50px;
+    height: 50px;
+    border-radius: 46%;
+    margin-right: 15px;
+}
+
+h6 {
+    margin-left: 5px;
+    color: grey;
+}
