@@ -9,6 +9,7 @@ const GoogleSignOut = () => {
       console.log("User signed out");
     } catch (error) {
       console.error("Error signing out:", error.message);
+      console.log("message")
     }
   };
 
