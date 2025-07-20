@@ -31,7 +31,7 @@ export default function Profile() {
       {userData ? (
         <div>
           <h2>{userData.displayName}</h2>
-          
+    
           {/* Display the profile picture */}
           <img
             src={userData.photoURL}  // URL from Firestore
